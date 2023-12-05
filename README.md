@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently preparing Placements!<br>🌱 I’m currently Exploring Full Stack Development<br>👯 I’m looking to collaborate on Open Source projects<br>💬 Ask me about Exciting projects to work on <br>😄 Pronouns: He/His<br>⚡ Fun Fact: I love working out 💪
+🔭 I’m currently preparing for Placements!<br>🌱 I’m currently Exploring Full Stack Development<br>👯 I’m looking to collaborate on Open Source projects<br>💬 Ask me about Exciting projects to work on <br>😄 Pronouns: He/His<br>⚡ Fun Fact: I love working out 💪
 
 
 ## 🌐 Socials:
@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luck-shya&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luck-shya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luck-shya&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
